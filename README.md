@@ -2,7 +2,7 @@
 
 I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology**, pursuing **B.Tech form Information Technology**
 
-#GitHub Stats
+# GitHub Stats
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetYT&&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
