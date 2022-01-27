@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hello, folks! <img src="" width="30px">
+# Hello, folks! <img src="https://github.com/SujeetYT/SujeetYT/blob/main/wave.gif" width="30px">
 
 
 <!--
