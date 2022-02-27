@@ -4,12 +4,12 @@ I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology*
 
 # GitHub Stats
 
-![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetYT&&layout=compact&theme=radical)
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetYT&&layout=compact&theme=radical)(https://github.com/SujeetYT?tab=repositories)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=TMFC&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=QuizApp&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=TMFC&theme=radical)(https://github.com/SujeetYT/TMFC)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=QuizApp&theme=radical)(https://github.com/SujeetYT/QuizApp)
 
-![Sujeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical )
+![Sujeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical )(https://github.com/SujeetYT)
 
 
 
