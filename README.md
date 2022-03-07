@@ -11,7 +11,9 @@ I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology*
 
 ![Sujeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical )
 
-
+<a>
+  <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=SujeetYT&theme=nord" />
+</a>
 
 
 <!--
