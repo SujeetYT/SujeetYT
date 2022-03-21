@@ -1,4 +1,6 @@
-# Hello, folks! <img src="https://github.com/SujeetYT/SujeetYT/blob/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/SujeetYT/SujeetYT/blob/main/wave.gif" width="30px"/>
+
+<img src="https://photos.app.goo.gl/2UMS4ri9zXoZo8uE6" width="100%"/>
 
 I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology**, pursuing **B.Tech in Information Technology**
 
