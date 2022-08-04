@@ -15,8 +15,8 @@ I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology*
 
 
 <div width="100%" align="center">
-  <a><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujeetYT&theme=radical" alt="Max Streak"/></a>
-  <a><img width="45%" src="https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical" alt="Sujeet's GitHub stats" /></a>
+  <a><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujeetYT&theme=radical" alt="Max Streak"/></a>
+  <a><img width="49%" src="https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical" alt="Sujeet's GitHub stats" /></a>
 </div>
 
 
