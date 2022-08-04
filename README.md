@@ -6,15 +6,21 @@ I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology*
 
 # GitHub Stats
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=TMFC&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=QuizApp&theme=radical)
+<div width="100%" align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetYT&&layout=compact&theme=radical" alt="Most Used Languages"/></div>
 
-![Sujeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical )
-<a><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetYT&&layout=compact&theme=radical"/></a>
-<a><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujeetYT&theme=radical"/></a>
-<a>
-  <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=SujeetYT&theme=nord" />
-</a>
+<div width="100%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=TMFC&theme=radical" alt="Readme Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=QuizApp&theme=radical" alt="Readme Card" />
+</div>
+
+
+<div width="100%" align="center">
+  <a><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujeetYT&theme=radical" alt="Max Streak"/></a>
+  <a><img width="45%" src="https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical" alt="Sujeet's GitHub stats" /></a>
+</div>
+
+
+<div width="100%" align="center"><img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=SujeetYT&theme=nord" alt="Graph"/></div>
 
 
 <!--
