@@ -20,7 +20,7 @@ I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology*
 </div>
 
 
-<div width="100%" align="center"><img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=SujeetYT&theme=nord" alt="Graph"/></div>
+<!-- <div width="100%" align="center"><img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=SujeetYT&theme=nord" alt="Graph"/></div> -->
 
 
 <!--
