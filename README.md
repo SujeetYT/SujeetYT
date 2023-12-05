@@ -28,11 +28,6 @@ I'm Sujeet Kumar and I'm student at **Maharaja Surajmal Institute of Technology*
 
 <div width="100%" align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetYT&&layout=compact&theme=radical" alt="Most Used Languages"/></div>
 
-<div width="100%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=TMFC&theme=radical" alt="Readme Card" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujeetYT&repo=QuizApp&theme=radical" alt="Readme Card" />
-</div>
-
 
 <div width="100%" align="center">
   <a><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujeetYT&theme=radical" alt="Max Streak"/></a>
