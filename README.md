@@ -3,7 +3,7 @@
 ![image](https://github.com/SujeetYT/SujeetYT/blob/main/Assets/LinkedIn%20Banner.png?raw=true)
 
 
-I'm Sujeet Kumar and B.Tech graduate from **Maharaja Surajmal Institute of Technology**, in **Information Technology**
+I'm Sujeet Kumar a B.Tech graduate from **Maharaja Surajmal Institute of Technology**, in **Information Technology**
 
 # Languages and Tools
 <p align="center">
