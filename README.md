@@ -23,7 +23,8 @@ I'm Sujeet Kumar a B.Tech graduate from **Maharaja Surajmal Institute of Technol
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" /> </a>
 	<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/230/99/png-transparent-redis-original-wordmark-logo-icon.png" alt="Redis" width="40" height="40" /> </a>
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.daimto.com/wp-content/uploads/2021/11/Docker_400x400.png" alt="Docker" width="40" height="40" /> </a>
-	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgjvCwVZYOiAv8q9XwkvNuwOL3gjKqMPXuag&s" alt="PostgreSQL" width="40" height="40" /> </a>
+	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40" /> </a>
+	<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="background: white"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="Amazon Web Services" width="40" height="40" /> </a>
 </p>
 
 # GitHub Stats
@@ -35,19 +36,3 @@ I'm Sujeet Kumar a B.Tech graduate from **Maharaja Surajmal Institute of Technol
   <a><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujeetYT&theme=radical" alt="Max Streak"/></a>
   <a><img width="49%" src="https://github-readme-stats.vercel.app/api?username=SujeetYT&show_icons=true&theme=radical" alt="Sujeet's GitHub stats" /></a>
 </div>
-
-
-<!--
-**SujeetYT/SujeetYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
