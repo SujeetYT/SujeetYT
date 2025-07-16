@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://github.com/SujeetYT/SujeetYT/blob/main/wave.gif" width="30px"/>
 
-![image](https://github.com/SujeetYT/SujeetYT/blob/main/Assets/LinkedIn%20Banner.png?raw=true)
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/d72af0aa-974d-466a-ab18-9370c7b833fc" />
 
 
 I'm Sujeet Kumar a B.Tech graduate from **Maharaja Surajmal Institute of Technology**, in **Information Technology**
@@ -25,6 +25,7 @@ I'm Sujeet Kumar a B.Tech graduate from **Maharaja Surajmal Institute of Technol
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.daimto.com/wp-content/uploads/2021/11/Docker_400x400.png" alt="Docker" width="40" height="40" /> </a>
 	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40" /> </a>
 	<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="background: white"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="Amazon Web Services" width="40" height="40" /> </a>
+	<a href="https://nginx.org/" target="_blank" rel="noreferrer" style="background: white"> <img src="https://egkatzioura.com/wp-content/uploads/2021/09/nginx-logo-rgb-large.png" alt="Nginx" width="40" height="40" /> </a>
 </p>
 
 # GitHub Stats
